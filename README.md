@@ -26,7 +26,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/Willi-git12/facturacion-prod.git
+git clone https://github.com/Willi-git12/api-facturacion.git
 cd facturacion-prod
 ```
 
